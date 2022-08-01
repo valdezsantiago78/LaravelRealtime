@@ -23,5 +23,7 @@
 - Notificaciones
 - Hasta donde de tu creatividad.
 
+Basado en curso de Laravel-RealTime @JuanDMeGon.
+
 
 ![117146657_339400850766579_7740498441828763699_n-8817071414](https://user-images.githubusercontent.com/27891908/181870580-5a452357-4d01-45e2-9c24-5682cd13ff59.jpg)
