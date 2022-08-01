@@ -8,6 +8,7 @@
 
 - Para poder probarlo descargarlo y ejecutar los comandos:
 
+-   0 . (Instalar php, luego composer).
 -   1 . Php artisan serve
 -   2 . Php artisan websockets:serve
 -   3 . Registrar un usuario
